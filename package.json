@@ -1,0 +1,15 @@
+{
+    "name": "black-panther-part4-api",
+    "version": "1.0.0",
+    "description": "API | Evaluation BLACK PANTHER PART 4 | formation Talent For StartUp 2022 |",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "keywords": ["T4SU, Formation 2022, Talent 4 Startup, Talent for Startup, sayna formation, amani dev"],
+    "author": "DEV SIETIE",
+    "license": "ISC",
+    "dependencies": {
+        "json-server": "^0.17.0"
+    }
+}

@@ -1,0 +1,41 @@
+[{
+        "id": 1,
+        "name": "json-server",
+        "lastname": "json-server",
+        "username": "black-panther",
+        "email": "hub@gmail.com",
+        "phone": "+22501748596",
+        "address": "typicode",
+        "password": "1223"
+    },
+    {
+        "name": "monsieur",
+        "lastname": "pierre",
+        "username": "pierre",
+        "email": "pierre@gmail.com",
+        "phone": "225 89 63 29",
+        "address": "France Paris",
+        "password": "12345678",
+        "id": 2
+    },
+    {
+        "name": "monsieur",
+        "lastname": "hermann",
+        "username": "hermann",
+        "email": "g@hmai.com",
+        "phone": "222222",
+        "address": "2536",
+        "password": "12345678",
+        "id": 3
+    },
+    {
+        "name": "Dupont",
+        "lastname": "it4girls",
+        "username": "admin",
+        "email": "Bahm42122@gmail.com",
+        "phone": "0504787751",
+        "address": "ertyui",
+        "password": "12345678",
+        "id": 4
+    }
+]
